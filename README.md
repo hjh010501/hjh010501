@@ -1,25 +1,29 @@
 ### ☺️Jonghyeon Ham  /  @kidevelop, @hjh010501
 
 ### 🧑‍💻 Profile
-  -  Interested in AI, Software Engineeing, Web(FE, BE), APP, UI/UX
   -  KAIST ‘24, School of Computing (undergraduate)
-
-### 🧠 Study
+  -  Interested in AI, Software Engineeing, Web(FE, BE), APP, UI/UX
+  
+### 🧠 Studies
   - AI, Neural Network, TF, PyTorch, data analysis
-  - Python, Java, C#, Javascript(node)
-  - React
-  - Django, Flask, Express
+  - Python, Java, C#, Javascript(node), C++
+  - React, React Native, Android(Java, Kotlin), electron
+  - Django, Flask, Express, MySQL, MongoDB
   - Docker
 
 ### 🔥 Works 
   - Founder & Software Engineer at [**NeuralAction**](https://neuralaction.github.io)
   - CTO & Software Engineer at Minieye
-  - AI Researcher, Software Engineer, Designer at Bluetag
-  - R&E Researcher at TCEAI
+  - AI Researcher, Software Engineer, Designer at [**BlueTag**](https://github.com/censored-bluetag)
+  - R&E Researcher at TCEAI(Seoul National University, AIIS)
   - Freelancer (Web developer, UI/UX Designer)
 
 ### 🏆 Awards
-  - loading..
+  - 19' OpenResource Hackathon Seoul 2019 1등
+  - 18' 대한민국 인재상 (Talent Award of Korea) 수상
+  - 18' Intel International Science and Engineering Fair 대한민국 국가대표 및 Robotics and Intelligent Machines Grand Award
+  - 18' 제 9회 한국청소년과학창의대회(ISEF-K) 1등
+  - 17' 제 34회 한국정보올림피아드(KOI) 공모부분 금상
 
 ### 📡 Links
   - 🍪 KakaoTalk: https://open.kakao.com/o/scgbmtZb
