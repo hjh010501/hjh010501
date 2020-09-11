@@ -14,11 +14,12 @@
 ### 🔥 Works 
   - Founder & Software Engineer at [**NeuralAction**](https://neuralaction.github.io)
   - CTO & Software Engineer at Minieye
-  - AI Researcher, Software Engineer, Designer at [**BlueTag**](https://github.com/censored-bluetag)
+  - Software Engineer at Rehearsal @ gluri, FoClass @ D.ROOT
   - R&E Researcher at TCEAI(Seoul National University, AIIS)
   - Freelancer (Web developer, UI/UX Designer)
 
 ### 🏆 Awards
+  - 20' 인공지능 온라인 경진대회 사업화 지원 선발
   - 19' OpenResource Hackathon Seoul 2019 1등
   - 18' 대한민국 인재상 (Talent Award of Korea) 수상
   - 18' Intel International Science and Engineering Fair 대한민국 국가대표 및 Robotics and Intelligent Machines Grand Award
