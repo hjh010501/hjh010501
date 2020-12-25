@@ -13,8 +13,8 @@
 
 ### 🔥 Works 
   - Founder & Software Engineer at [**NeuralAction**](https://neuralaction.github.io)
-  - CTO & Software Engineer at Minieye
-  - Software Engineer at Rehearsal @ gluri
+  - CTO & Software Engineer at [**Minieye**](https://minieye.io)
+  - Software Engineer at [**Rehearsal**](https://rehearsal.me) @ gluri
   - R&E Researcher at TCEAI(Seoul National University, AIIS)
   - Freelancer (Web developer, UI/UX Designer)
 
