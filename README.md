@@ -1,8 +1,8 @@
 ### ☺️Jonghyeon Ham  /  @kidevelop, @hjh010501
 
 ### 🧑‍💻 Profile
-  -  KAIST ‘24, School of Computing (undergraduate)
-  -  Interested in AI, Software Engineeing, Web(FE, BE), APP, UI/UX
+  -  KAIST ‘24(?), School of Computing (undergraduate)
+  -  Interested in AI, Software Engineeing, Web(FE, BE), Server, APP, UI/UX
   
 ### 🧠 Studies
   - AI, Neural Network, TF, PyTorch, data analysis
@@ -12,9 +12,10 @@
   - Docker
 
 ### 🔥 Works 
+  - Lead Software Engineer & UI/UX Designer at [**evoclass**](https://evoclass.ai) @ [Transverse](https://transverse.ai)
   - Founder & Software Engineer at [**NeuralAction**](https://neuralaction.github.io)
   - CTO & Software Engineer at [**Minieye**](https://minieye.io)
-  - Software Engineer at [**Rehearsal**](https://rehearsal.me) @ gluri
+  - Lead Software Engineer at [**Rehearsal**](https://rehearsal.me) @ gluri
   - R&E Researcher at TCEAI(Seoul National University, AIIS)
   - Freelancer (Web developer, UI/UX Designer)
 
