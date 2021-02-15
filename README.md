@@ -15,8 +15,8 @@
   - Lead Software Engineer & UI/UX Designer at [**evoclass**](https://evoclass.ai) @ [Transverse](https://transverse.ai)
   - Founder & Software Engineer at [**NeuralAction**](https://neuralaction.github.io)
   - CTO & Software Engineer at [**Minieye**](https://minieye.io)
-  - Lead Software Engineer at [**Rehearsal**](https://rehearsal.me) @ gluri
-  - R&E Researcher at TCEAI(Seoul National University, AIIS)
+  - Lead Software Engineer at [**Rehearsal**](https://rehearsal.me) @ gluri ( ~ 2021.1)
+  - R&E Researcher at TCEAI(Seoul National University)
   - Freelancer (Web developer, UI/UX Designer)
 
 ### 🏆 Awards
