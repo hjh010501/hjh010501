@@ -15,6 +15,7 @@
 
 ### 🔥 Works 
   - Lead Software Engineer (Co-Founder) @ [Transverse](https://transverse.ai)
+  - Naver [Boostcamp](https://boostcamp.connect.or.kr/) 7th Backend Code-Reviewer 
   - Class101 Lecturer - [React 로 웹 개발의 기초부터 프로덕션까지 :: To-Do, 메모앱 만들기](https://class101.page.link/PhNh)
   - Founder & Software Engineer @ [**NeuralAction**](https://neuralaction.github.io)
 
