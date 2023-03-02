@@ -14,6 +14,8 @@
   - Prometheus, Grafana
 
 ### 🔥 Works 
+  - Server Developer (Toss Core) @ [Viva Republica](https://toss.im)
+  - FastCampus Lecturer - [Remix 핵심 정복: 편리하고 더 빠른 웹 개발 feat. 성능최적화](https://fastcampus.co.kr/dev_online_remix)
   - Lead Software Engineer (Co-Founder) @ [Transverse](https://transverse.ai)
   - Naver [Boostcamp](https://boostcamp.connect.or.kr/) 7th Backend Code-Reviewer 
   - Class101 Lecturer - [React 로 웹 개발의 기초부터 프로덕션까지 :: To-Do, 메모앱 만들기](https://class101.page.link/PhNh)
