@@ -1,6 +1,6 @@
 ### ☺️Jonghyeon Ham  /  @kidevelop, @hjh010501
 
-[![Resume Card](https://dev.refresh.cv/r/jh.ham/mini-card)](https://dev.refresh.cv/jh.ham)
+[![Resume Card](https://dev.refresh.cv/r/jh.ham/middle-card)](https://dev.refresh.cv/jh.ham)
 
 ### 🧑‍💻 Profile
   -  KAIST, School of Computing
